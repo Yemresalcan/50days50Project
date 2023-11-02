@@ -1,3 +1,15 @@
+
+setTimeout(function() {
+    var marquee = document.querySelector("marquee");
+    marquee.style.display = "none";
+}, 18000); 
+
+
+
+
+
+
+
 const progress = document.querySelector('.progress');
 const prev= document.getElementById('prev');
 const next= document.getElementById('next');
