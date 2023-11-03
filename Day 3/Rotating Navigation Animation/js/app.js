@@ -6,3 +6,9 @@ const container = document.querySelector('.container');
 open.addEventListener('click', () => container.classList.add('show-nav'));
 
 close.addEventListener('click', () => container.classList.remove('show-nav'));
+
+setTimeout(function() {
+    var marquee = document.querySelector("marquee");
+    marquee.style.display = "none";
+}, 18000); 
+
