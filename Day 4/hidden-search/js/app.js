@@ -6,3 +6,8 @@ btn.addEventListener('click', () => {
     search.classList.toggle('active');
     input.focus();  
 });
+
+setTimeout(function() {
+    var marquee = document.querySelector("marquee");
+    marquee.style.display = "none";
+}, 18000)
