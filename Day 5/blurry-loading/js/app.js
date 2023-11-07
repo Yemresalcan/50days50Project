@@ -21,3 +21,8 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 };
 
 const int = setInterval(blurring, 30);
+
+setTimeout(function() {
+    var marquee = document.querySelector("marquee");
+    marquee.style.display = "none";
+}, 18000)
