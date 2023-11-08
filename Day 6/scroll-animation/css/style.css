@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+h1 {
+  margin: 10px;
+}
+
+marquee {
+  width: 100%;
+  height: 45px;
+
+  color: #DDF2FD;
+  font-size: 24px;
+  padding: 10px;
+
+  border-radius: 10px;
+}
+
+
+.box {
+  background-color: steelblue;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+  transform: translateX(400%);
+  transition: transform 0.4s ease;
+}
+
+.box:nth-of-type(even) {
+  transform: translateX(-400%);
+}
+
+.box.show {
+  transform: translateX(0);
+}
+
+.box h2 {
+  font-size: 45px;
+}
+.marquee-container {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  height: 45px;
+
+  color: #DDF2FD;
+  font-size: 24px;
+  padding: 10px;
+  
+  border-radius: 10px;
+}
+
+.marquee-container a {
+  display: inline-block;
+  padding-right: 100%; /* Move the text to the left initially */
+  animation: marquee 10s linear infinite; /* Adjust the speed as needed */
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(100%); /* Start from the right side */
+  }
+  100% {
+    transform: translateX(-100%); /* Move to the left edge */
+  }
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 10px;
+  color: white;
+  text-align: center;
+}
