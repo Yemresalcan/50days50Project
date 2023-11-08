@@ -12,4 +12,4 @@
 | Day3  | [Rotating Navigation Animation](https://github.com/Yemresalcan/50days50Project/tree/main/Day%203/Rotating%20Navigation%20Animation)                       | [Live Demo](https://50days-50project-day3.netlify.app/) |
 | Day4  | [Hidden-search](https://github.com/Yemresalcan/50days50Project/tree/main/Day%204/hidden-search)                       | [Live Demo](https://50days50project-day4.netlify.app/) |
 | Day5  | [Blurry-loading](https://github.com/Yemresalcan/50days50Project/tree/main/Day%205/blurry-loading)                       | [Live Demo](https://50days50project-day5.netlify.app/) |
-
+| Day6  | [Scroll-animation](https://github.com/Yemresalcan/50days50Project/tree/main/Day%206/scroll-animation)                       | [Live Demo](https://50days50project-day6.netlify.app/) |
