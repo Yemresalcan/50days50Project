@@ -15,5 +15,5 @@
 | Day6  | [Scroll-animation](https://github.com/Yemresalcan/50days50Project/tree/main/Day%206/scroll-animation)                       | [Live Demo](https://50days50project-day6.netlify.app/) |
 | Day7  | [Split-Landing-page](https://github.com/Yemresalcan/50days50Project/tree/main/Day%207/split-landing-page)                       | [Live Demo](https://50days50project-day7.netlify.app/) |
 | Day8  | [Form-input-wave](https://github.com/Yemresalcan/50days50Project/tree/main/Day%208/form-input-wave)                       | [Live Demo](https://50days50project-day8.netlify.app/) |
-| Day8  | [Sound-bar](https://github.com/Yemresalcan/50days50Project/tree/main/Day%209/sound-bar)                       | [Live Demo](https://50days50project-day9.netlify.app/) |
+| Day9  | [Sound-bar](https://github.com/Yemresalcan/50days50Project/tree/main/Day%209/sound-bar)                       | [Live Demo](https://50days50project-day9.netlify.app/) |
 
