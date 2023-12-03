@@ -18,3 +18,4 @@
 | Day9  | [Sound-bar](https://github.com/Yemresalcan/50days50Project/tree/main/Day%209/sound-bar)                       | [Live Demo](https://50days50project-day9.netlify.app/) |
 | Day10  | [Dad-jokes](https://github.com/Yemresalcan/50days50Project/tree/main/Day10/dad-jokes)                       | [Live Demo](https://50days50project-day10.netlify.app/) |
 | Day11 | [Event-keycodes](https://github.com/Yemresalcan/50days50Project/tree/main/Day11/event-keycodes)                       | [Live Demo](https://50days50project-day11.netlify.app/) |
+| Day12 | [Event-keycodes](https://github.com/Yemresalcan/50days50Project/tree/main/Day12/faq-collapse)                       | [Live Demo](https://50days50project-day12.netlify.app/) |
