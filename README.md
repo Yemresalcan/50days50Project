@@ -20,6 +20,7 @@
 | Day11 | [Event-keycodes](https://github.com/Yemresalcan/50days50Project/tree/main/Day11/event-keycodes)                       | [Live Demo](https://50days50project-day11.netlify.app/) |
 | Day12 | [Faq-collapse](https://github.com/Yemresalcan/50days50Project/tree/main/Day12/faq-collapse)                       | [Live Demo](https://50days50project-day12.netlify.app/) |
 | Day13 | [Random-choice-picker](https://github.com/Yemresalcan/50days50Project/tree/main/Day13/random-choice-picker)                       | [Live Demo](https://50days50project-day13.netlify.app/) |
+| Day14 | [Animated-navigation](https://github.com/Yemresalcan/50days50Project/tree/main/Day14/animated-navigation)                       | [Live Demo](https://50days50project-day14.netlify.app/) |
 
 
 
