@@ -22,7 +22,7 @@
 | Day13 | [Random-choice-picker](https://github.com/Yemresalcan/50days50Project/tree/main/Day13/random-choice-picker)                       | [Live Demo](https://50days50project-day13.netlify.app/) |
 | Day14 | [Animated-navigation](https://github.com/Yemresalcan/50days50Project/tree/main/Day14/animated-navigation)                       | [Live Demo](https://50days50project-day14.netlify.app/) |
 | Day15 | [Incrementing-counter](https://github.com/Yemresalcan/50days50Project/tree/main/Day15/incrementing-counter)                       | [Live Demo](https://50days50project-day15.netlify.app/) |
-
+| Day16 | [Drink-water](https://github.com/Yemresalcan/50days50Project/tree/main/Day16/drink-water)                       | [Live Demo](https://50days50project-day16.netlify.app/) |
 
 
 
