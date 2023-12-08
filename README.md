@@ -23,7 +23,7 @@
 | Day14 | [Animated-navigation](https://github.com/Yemresalcan/50days50Project/tree/main/Day14/animated-navigation)                       | [Live Demo](https://50days50project-day14.netlify.app/) |
 | Day15 | [Incrementing-counter](https://github.com/Yemresalcan/50days50Project/tree/main/Day15/incrementing-counter)                       | [Live Demo](https://50days50project-day15.netlify.app/) |
 | Day16 | [Drink-water](https://github.com/Yemresalcan/50days50Project/tree/main/Day16/drink-water)                       | [Live Demo](https://50days50project-day16.netlify.app/) |
-
+| Day17 | [Movie-App](https://github.com/Yemresalcan/50days50Project/tree/main/Day17/movie-app)                       | [Live Demo](https://50days50project-day17.netlify.app/) |
 
 
 
