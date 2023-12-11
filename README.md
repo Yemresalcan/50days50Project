@@ -25,6 +25,7 @@
 | Day16 | [Drink-water](https://github.com/Yemresalcan/50days50Project/tree/main/Day16/drink-water)                       | [Live Demo](https://50days50project-day16.netlify.app/) |
 | Day17 | [Movie-App](https://github.com/Yemresalcan/50days50Project/tree/main/Day17/movie-app)                       | [Live Demo](https://50days50project-day17.netlify.app/) |
 | Day18 | [Background-slider](https://github.com/Yemresalcan/50days50Project/tree/main/Day18/background-slider)                       | [Live Demo](https://50days50project-day18.netlify.app/) |
+| Day19 | [Theme-clock](https://github.com/Yemresalcan/50days50Project/tree/main/Day19/theme-clock)                       | [Live Demo](https://50days50project-day19.netlify.app/) |
 
 
 
