@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: steelblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.empty {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  border: solid 3px black;
+  background: white;
+}
+
+.fill {
+  background-image: url('https://source.unsplash.com/random/150x150');
+  height: 145px;
+  width: 145px;
+  cursor: pointer;
+}
+
+.hold {
+  border: solid 5px #ccc;
+}
+
+.hovered {
+  background-color: #333;
+  border-color: white;
+  border-style: dashed;
+}
+
+@media (max-width: 800px) {
+  body {
+    flex-direction: column;
+  }
+}
+marquee {
+  width: 100%;
+  height: 45px;
+  color: #000;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.marquee-container {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  height: 45px;
+
+  color: #000; ;
+  font-size: 24px;
+  padding: 10px;
+  
+  border-radius: 10px;
+}
+
+.marquee-container a {
+  display: inline-block;
+  padding-right: 100%; /* Move the text to the left initially */
+  animation: marquee 10s linear infinite; /* Adjust the speed as needed */
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(100%); /* Start from the right side */
+  }
+  100% {
+    transform: translateX(-100%); /* Move to the left edge */
+  }
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 10px;
+  color: white;
+  text-align: center;
+}
