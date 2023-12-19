@@ -29,7 +29,7 @@
 | Day20 | [Button-ripple-effect](https://github.com/Yemresalcan/50days50Project/tree/main/Day20/button-ripple-effect)                       | [Live Demo](https://50days50project-day20.netlify.app/) |
 | Day21 | [Drag-n-drop](https://github.com/Yemresalcan/50days50Project/tree/main/Day21/drag-n-drop)                       | [Live Demo](https://50days50project-day21.netlify.app/) |
 | Day22 | [Drawing-app](https://github.com/Yemresalcan/50days50Project/tree/main/Day22/drawing-app)                       | [Live Demo](https://50days50project-day22.netlify.app/) |
-
+| Day23 | [Drawing-app](https://github.com/Yemresalcan/50days50Project/tree/main/Day23/drawing-app)                       | [Live Demo](https://50days50project-day23.netlify.app/) |
 
 
 
