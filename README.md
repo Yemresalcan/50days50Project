@@ -30,6 +30,6 @@
 | Day21 | [Drag-n-drop](https://github.com/Yemresalcan/50days50Project/tree/main/Day21/drag-n-drop)                       | [Live Demo](https://50days50project-day21.netlify.app/) |
 | Day22 | [Drawing-app](https://github.com/Yemresalcan/50days50Project/tree/main/Day22/drawing-app)                       | [Live Demo](https://50days50project-day22.netlify.app/) |
 | Day23 | [Kinetic-loader](https://github.com/Yemresalcan/50days50Project/tree/main/Day23/drawing-app)                       | [Live Demo](https://50days50project-day23.netlify.app/) |
-| Day24 | [Content Placeholder](https://github.com/Yemresalcan/50days50Project/tree/main/Day24/drawing-app)                       | [Live Demo](https://50days50project-day24.netlify.app/) |
+| Day24 | [Content Placeholder](https://github.com/Yemresalcan/50days50Project/tree/main/Day24/content-placeholder)                       | [Live Demo](https://50days50project-day24.netlify.app/) |
 
 
